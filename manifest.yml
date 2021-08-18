@@ -1,0 +1,5 @@
+---
+applications:
+ - name: adityadb
+   random-route: true
+   memory: 256M
